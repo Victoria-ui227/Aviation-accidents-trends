@@ -41,20 +41,20 @@ Found the count of number of accidents per year and visualized accidents' freque
 # RESULTS
 Analyses revealed that Beech airlines are the best option to purchase because it has the lowest risk in terms of accident trends. 
 
-![line plot](Images/accident trends.png)
+![line plot](Images/accident_trends.png)
 
 Most airline accidents are survivable.
 There is a higher count of uninjured passengers compared to other injury outcomes
 
-![scatter plot](Images/injury outcomes.png)
+![scatter plot](Images/injury_outcomes.png)
 
 Commercial aircrafts show lower count of injury outcomes. They also can  withstand weather conditions and sustain damages better than private aircrafts.   
 
-![stacked bar hraph](Images/flight purpose survivability.png)
+![stacked bar hraph](Images/purpose_survivability.png)
 
 
 
-![stacked bar graph](images/flight damage-weather condition.png)
+![stacked bar graph](Images/damage_weather.png)
 
 
 

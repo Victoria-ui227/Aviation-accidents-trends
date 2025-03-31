@@ -7,7 +7,7 @@
 
 
 # OVERVIEW
-This project analyzes aviation accidents' data from 1980 upto 2022, to study trends of accidents and how it can be used to influence Uzima company's decision in the purchase and operation of aircrafts. Some of the approaches used in this project are borrowed from the [Part 121 Accident Survivability - NTSB](https://www.ntsb.gov/safety/data/Pages/Part121AccidentSurvivability.aspx). I will use data cleaning, imputation, analysis, and visualization to generate insights for the company. 
+This project analyzes aviation accidents' data from 1980 upto 2022, to study trends of accidents and how it can be used to influence Uzima company's decision in the purchase and operation of aircrafts. Some of the approaches used in this project are borrowed from the [Part 121 Accident Survivability - NTSB](https://www.ntsb.gov/safety/data/Pages/Part121AccidentSurvivability.aspx). I will use pandas for data cleaning, imputation, analysis, and matplotlib for visualization to generate insights for the company. 
 
 # BUSINESS PROBLEM
 Uzima company can use data from [Aviation Accident Database - Kaggle](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses/data?select=AviationData.csv) to draw actionable insights on which aircrafts to invest and its potential risks. The purpose of this project is to help determine which airplanes are the lowest risk for the company to start this business endeavour. From the data, I was able to pose the following questions to help make the next steps. 
@@ -22,13 +22,12 @@ In the data folder is a dataset from the National Transportation Safety Board th
 The data we're going to use is contained in the AviationData.csv file; Which has records about the aircraft makes, the accidents' data, injury severity and outcomes etc. that will be used to answer our business questions.
 
 ## Data Analysis
+
+
 ###### Time Series analysis:
 Plotted a line graph of accidents counts over time to identify trends in aviation accidents.It included comparing accidents trends by aircraft manufacturer to find which aircraft has the lowest risk ove time. 
 
 Injury outcomes counts  were plotted over time, to analyse occupants survivability.
-
-
-
 
 
 ###### Aircraft risks based on flight purpose 
